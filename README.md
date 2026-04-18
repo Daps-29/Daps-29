@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🚀 Daps-29
 
-<!--
-**Daps-29/Daps-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=30&fontColor=ffffff"/>
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desarrollador especializado en aplicaciones y sitios web con tecnologías modernas  
+⚡ Enfocado en rendimiento, escalabilidad y buenas prácticas  
+🚀 Apasionado por construir soluciones eficientes y robustas  
+
+---
+
+## 🛠️ Tecnologías
+
+### 🚀 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge)
+
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daps-29&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daps-29&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+📧 **Email:** dpinto1229@gmail.com  
+📱 **Teléfono:** 76275987  
+
+---
+
+## ⚡ Filosofía
+
+_"Construyendo código limpio, escalable y listo para el futuro."_ 🚀
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
